@@ -1,3 +1,11 @@
+// stack_reader, a small program to print stack contents
+// Copyright 2018 Fabian Ritter
+//
+// Licensed under the "THE BEER-WARE LICENSE" (Revision 42):
+// Fabian Ritter wrote this file. As long as you retain this notice you
+// can do whatever you want with this stuff. If we meet some day, and you think
+// this stuff is worth it, you can buy me a beer or coffee in return
+
 #include <stdio.h>
 #include <stdint.h>
 
